@@ -1,7 +1,7 @@
 {
-    "name": "zid-fe-react-apis-with-hooks-xx-assignment",
+    "name": "react-apis-with-hooks",
     "version": "1.0.0",
-    "description": "zid-fe-react-apis-with-hooks-xx-assignment qualified challenge.",
+    "description": "react-apis-with-hooks",
     "private": true,
     "directories": {
         "doc": "docs"
